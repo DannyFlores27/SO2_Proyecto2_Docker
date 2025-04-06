@@ -3,8 +3,8 @@ Docker: Servidor de Aplicación en NodeJs con ClickHouse
 
 # Comandos iniciar proyectos
 
-# Frontend
+# Frontend React con Vite
 npm run dev
 
-# Backend
+# Backend NodeJs con ClickHouse
 docker-compose up --build
